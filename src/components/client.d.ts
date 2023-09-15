@@ -1,4 +1,8 @@
+import {Button, Slider, Card} from './index';
 declare module "rendi-ui"{
-  const Button: string
-  export default Button
+  export {
+    Button,
+    Slider,
+    Card
+}
 }
