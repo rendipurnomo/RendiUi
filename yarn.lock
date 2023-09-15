@@ -1900,6 +1900,11 @@ regexp.prototype.flags@^1.5.0, regexp.prototype.flags@^1.5.1:
     define-properties "^1.2.0"
     set-function-name "^2.0.0"
 
+rendi-ui@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.npmjs.org/rendi-ui/-/rendi-ui-1.0.0.tgz"
+  integrity sha512-PAaX2UBC3fsnrUe8sOFdr858fa7MKd3nlz1WlBrXCU/Kvc5zyZr0kSH4oETvKNA/Cj0emibPZKxfeionahr6ZA==
+
 resolve-from@^4.0.0:
   version "4.0.0"
   resolved "https://registry.npmjs.org/resolve-from/-/resolve-from-4.0.0.tgz"
