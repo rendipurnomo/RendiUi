@@ -6,8 +6,8 @@ const Button = (props) => {
 
   let btnClasses='';
 
-  let contained = `${color}-contained text-white`;
-  let outlined = `${color}-outlined border-2`;
+  let contained = `${color}-contained`;
+  let outlined = `${color}-outlined`;
 
   if(variant === 'contained'){
     btnClasses = contained;
@@ -17,7 +17,7 @@ const Button = (props) => {
   }
   
   return (
-    <button variant={variant} color={color} className={`${btnClasses} font-semibold px-4 py-2 rounded-md shadow`}>
+    <button variant={variant} color={color} className={`${btnClasses}`}>
       {children}
     </button>
   )
