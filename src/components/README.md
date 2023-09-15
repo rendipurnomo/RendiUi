@@ -19,8 +19,8 @@ function App() {
   return (
     <div>
       <Button 
-      variant="contained"
-      color="primary"
+      variant="contained" //outlined
+      color="primary"    //secondary,success,warning,disabled
       > this is button</Button>
     </div>
   );

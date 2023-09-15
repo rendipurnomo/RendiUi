@@ -3,8 +3,16 @@
   "version": "1.1.2",
   "description": "components of reactjs: button,card,slider",
   "main": "index.js",
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "packages/*",
+    "templates/*"
+  ],
   "scripts": {
-    "test": "node index.js"
+    "patch": "cd src/components && npm version patch",
+    "minor": "cd src/components && npm version minor",
+    "major": "cd src/components && npm version major"
   },
   "repository": {
     "type": "git",
