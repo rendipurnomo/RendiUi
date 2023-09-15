@@ -1,0 +1,2 @@
+
+declare module "rendi-ui";
