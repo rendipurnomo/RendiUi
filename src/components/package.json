@@ -1,0 +1,25 @@
+{
+  "name": "rendi-ui",
+  "version": "1.0.0",
+  "description": "components of reactjs: button,card,slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rendipurnomo/RendiUi.git"
+  },
+  "keywords": [
+    "button",
+    "card",
+    "slider",
+    "reactjs"
+  ],
+  "author": "Rendi <rendipur234@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rendipurnomo/RendiUi/issues"
+  },
+  "homepage": "https://github.com/rendipurnomo/RendiUi#readme"
+}
