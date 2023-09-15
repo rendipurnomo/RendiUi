@@ -1,6 +1,6 @@
 {
   "name": "rendi-ui",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "components of reactjs: button,card,slider",
   "main": "index.js",
   "type": "module",
