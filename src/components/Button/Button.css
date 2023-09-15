@@ -1,9 +1,9 @@
 .primary-contained{
-  @apply bg-blue-500 hover:bg-blue-700 shadow
+  @apply bg-blue-500 hover:bg-blue-700 text-white shadow
 }
 
 .secondary-contained{
-  @apply bg-indigo-500 hover:bg-indigo-700 shadow
+  @apply bg-indigo-500 hover:bg-indigo-700 text-white shadow
 }
 
 .success-contained{
@@ -15,27 +15,27 @@
 }
 
 .disabled-contained{
-  @apply bg-slate-500 hover:bg-slate-700  text-white shadow
+  @apply bg-slate-500 hover:bg-slate-700 text-white shadow
 }
 
 .primary-outlined{
-  @apply text-blue-500 border-blue-500 hover:bg-blue-100  border-2 shadow
+  @apply text-blue-500 border-blue-500 hover:bg-blue-100 border-2 shadow
 }
 
 .secondary-outlined{
-  @apply text-indigo-500 border-indigo-500 hover:bg-indigo-100  border-2 shadow
+  @apply text-indigo-500 border-indigo-500 hover:bg-indigo-100 border-2 shadow
 }
 
 .success-outlined{
-  @apply text-green-500 border-green-500 hover:bg-green-100  border-2 shadow
+  @apply text-green-500 border-green-500 hover:bg-green-100 border-2 shadow
 }
 
 .warning-outlined{
-  @apply text-red-500 border-red-500 hover:bg-red-100  border-2 shadow
+  @apply text-red-500 border-red-500 hover:bg-red-100 border-2 shadow
 }
 
 .disabled-outlined{
-  @apply text-slate-500 border-slate-500 hover:bg-slate-100  border-2 shadow
+  @apply text-slate-500 border-slate-500 hover:bg-slate-100 border-2 shadow
 }
 
 .shadow{
